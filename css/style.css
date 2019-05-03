@@ -857,6 +857,14 @@ body.offcanvas {
     @media screen and (max-width: 1200px) {
       .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
         font-size: 28px; } }
+  .colorlib-personal {
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 14px;
+    letter-spacing: 3px;
+    text-transform: uppercase; }
+  }
 
 .blog-entry {
   width: 100%;
