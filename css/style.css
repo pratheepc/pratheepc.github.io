@@ -452,6 +452,7 @@ a:hover {
 .skill-des p{
   color: #fff;
   font-size: 18px;
+  text-align: justify;
 }
 
 .skill-mf span {
@@ -691,6 +692,3 @@ li.timeline-item::before {
   color: #fff;
   text-align: center;
 }
-
-
-
