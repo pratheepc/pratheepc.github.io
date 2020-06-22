@@ -1,0 +1,1 @@
+{ "addresses": [ { "paymentNetwork": "XRPL", "environment": "MAINNET", "addressDetailsType": "CryptoAddressDetails", "addressDetails": { "address": "rsjrKD7HqvwsKuD1xcauHQp1eoTGTMGddz" } } ], "payId": "pay$pratheepc.github.io" }
