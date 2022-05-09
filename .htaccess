@@ -1,0 +1,4 @@
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80
+RewriteCond %{HTTP_HOST} ^(www\.)?coolexample\.com
+RewriteRule ^(.*)$ https://www.pratheepc.in/$1 [R,L]
