@@ -339,6 +339,7 @@ a:hover {
   height: auto;
   background: #f7f7f7;
   padding-top: 70px;
+  padding-bottom: 70px;
 }
 
 #about .div-img-bg {
@@ -457,7 +458,7 @@ a:hover {
 
 .skill-mf span {
   color: #fff;
-  margin: auto;
+  /* margin: auto; */
 }
 
 .skill-mf .progress {
